@@ -1,6 +1,9 @@
 :star: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <br/>
 :fire: This repository aims to build a "Google Docs" like web application based editor.
+## Application architecture
+![architecture](https://github.com/hogyun3709/collaborative-editor/blob/master/collaborative-editor-architecture.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
